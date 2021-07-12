@@ -44,12 +44,15 @@
 # upper: convert all characters in a string to uppercase, "hello" -> "HELLO"
 # lower: convert all characters in a string to lowercase, "HELLO" -> "hello"
 
-string1 = "can you hear me?"
-string2 = "CAN YOU HEAR ME?"
+# string1 = "can you hear me?"
+# string2 = "CAN YOU HEAR ME?"
 
-print(string1.upper())
-print(string2.lower())
-print(len(string1))
-print(string1,string2)
+# print(string1.upper())
+# print(string2.lower())
+# print(len(string1))
+# print(string1,string2)
 
 # string formatting
+# name = input("What is your name? ")
+# number = float(input("Give me a number "))
+# print(f"Your name is {name} and you will die in {number} days.")
