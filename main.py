@@ -56,3 +56,7 @@
 # name = input("What is your name? ")
 # number = float(input("Give me a number "))
 # print(f"Your name is {name} and you will die in {number} days.")
+
+# name = "Feanor"
+# number = "20"
+# print("My name is {0} and I will die in {1} days.".format(name,number))
