@@ -39,7 +39,17 @@
 # print("The perimeter of a",length,"by",width,"rectangle is",perimeter)
 
 # String manip
-# Concatination: "hello" + "world" = "hello world"
-# length
-# upper
-# lower
+# Concatination: "hello" + "world" -> "hello world"
+# length: gives how many characters a string is, "hello" -> len("hello") = 5
+# upper: convert all characters in a string to uppercase, "hello" -> "HELLO"
+# lower: convert all characters in a string to lowercase, "HELLO" -> "hello"
+
+string1 = "can you hear me?"
+string2 = "CAN YOU HEAR ME?"
+
+print(string1.upper())
+print(string2.lower())
+print(len(string1))
+print(string1,string2)
+
+# string formatting
