@@ -89,5 +89,6 @@ verb_5 = input("Give me a verb (no 'to' before it) ")
 celebrity_1 = input("Give me a celebrity ")
 place = input("Give me a place ")
 celebrity_2 = input("Give me another celebrity ")
-celebrity_3= input("Give me another celebrity ") 
+celebrity_3= input("Give me another celebrity ")
+ 
 print(f"Be he {supervillain} or {superhero}, be he {adj_1} or {adj_2},\nbrood of {animal_1} or bright {animal_2},\n{person_1} or {person_2} or {person_3},\n{person_3} yet unborn upon {country},\nneither {noun_1}, nor {noun_2}, nor league of {weapon},\n{noun_3} nor {noun_4}, not {noun_5} itself,\nshall defend him from {name}, and "+name+"'s kin,\nwhoso "+verb_1+"eth or "+verb_2+"eth, or in hand "+verb_3+"eth,\nfinding "+verb_4+"eth or afar "+verb_5+f"eth\na Silmaril. This swear we all:\ndeath we will deal him ere Day's ending,\nwoe unto world's end! Our word hear thou,\n{celebrity_1}! To the everlasting\n{place} doom us if our deed faileth.\nOn the holy mountain hear in witness\nand our vow remember, {celebrity_2} and {celebrity_3}!")
